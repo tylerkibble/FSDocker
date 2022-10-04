@@ -1,6 +1,10 @@
-# File Share in docker made with angular
+# This is a work in progress side project!
+# This is the base dev server and front end set up with angular in docker
+
 
 ## Getting Started
+
+# Docker Commands.
 
 Start off with 
 `cd FSDocker`
