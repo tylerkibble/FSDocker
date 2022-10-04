@@ -12,6 +12,8 @@ Start off with
 Then run 
 `docker-compose up --build -d`
 
+## This is all base angular commands, must be run within the docker container cli, not your base dev environemt. 
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
